@@ -2,4 +2,4 @@
 ## Repositório usado para fazer atividades da aula de Git do curso Fullstack Javascript da escola T.ex.
 
 - Clonando um repositório remoto
-- Criada a branch projeto_v1
+- Criada a branch projeto_v2
