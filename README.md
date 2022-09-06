@@ -3,4 +3,4 @@
 
 - Clonando um repositório remoto
 - Criada a branch projeto_v2
-- Projeto inciado
+- Projeto inciado. Alterado branch diretamente no diretório
